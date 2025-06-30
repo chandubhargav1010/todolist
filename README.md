@@ -152,4 +152,17 @@ The app uses localStorage by default. To use a different storage method:
 - [ ] **Offline Support**: Progressive Web App (PWA) capabilities
 
 
+---
+
+## 📦 How to Use
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/chandubhargav1010/todolist.git
+
+2. **Open the app**
+   Just open the `index.html` file in any modern browser.
+
+
 **Happy task managing! 📝✨**
+
