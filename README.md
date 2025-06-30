@@ -151,29 +151,5 @@ The app uses localStorage by default. To use a different storage method:
 - [ ] **Import/Export**: Support for CSV, PDF formats
 - [ ] **Offline Support**: Progressive Web App (PWA) capabilities
 
-## 🐛 Known Issues
-
-- None currently reported. If you find any issues, please create a GitHub issue.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📞 Support
-
-If you have questions or need help:
-1. Check the usage guide above
-2. Review the code comments in the source files
-3. Create an issue for bugs or feature requests
-
----
 
 **Happy task managing! 📝✨**
